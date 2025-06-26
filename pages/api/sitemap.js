@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const baseUrl = 'https://tudominio.com'; // Cambiar por tu dominio real
+  const baseUrl = "https://mi-app-seo-lab-14-dawa.vercel.app";
   
   // URLs estáticas
   const staticUrls = [
